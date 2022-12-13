@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Liveproject/static/css/main.f636cd05.css",
+    "main.js": "/Liveproject/static/js/main.b662c9bc.js",
+    "static/js/787.06d42907.chunk.js": "/Liveproject/static/js/787.06d42907.chunk.js",
+    "static/media/rescue-team.jpg": "/Liveproject/static/media/rescue-team.06f9686696c0ca18096c.jpg",
+    "static/media/rescue.png": "/Liveproject/static/media/rescue.6be3fd411a5ac70597fd.png",
+    "static/media/homepage1.jpeg": "/Liveproject/static/media/homepage1.4df381687d4a7f4190c5.jpeg",
+    "static/media/homepage2.jpeg": "/Liveproject/static/media/homepage2.4804bca46dfc19769bca.jpeg",
+    "static/media/food-med.jpg": "/Liveproject/static/media/food-med.11170a93fb9d6bbe8dbc.jpg",
+    "static/media/medical.png": "/Liveproject/static/media/medical.6cc0434296efc3c4a030.png",
+    "static/media/shelter.png": "/Liveproject/static/media/shelter.de1e24efb5a5620d5245.png",
+    "static/media/success.png": "/Liveproject/static/media/success.cb6a554a3c532fc95d9a.png",
+    "static/media/alert.jpeg": "/Liveproject/static/media/alert.9ebaf71baa5e6e58b4d1.jpeg",
+    "static/media/helpinghand.jpeg": "/Liveproject/static/media/helpinghand.38f2b604fbb011d8feef.jpeg",
+    "static/media/helpline.jpeg": "/Liveproject/static/media/helpline.7cff8fb965e30c1d0d27.jpeg",
+    "index.html": "/Liveproject/index.html",
+    "main.f636cd05.css.map": "/Liveproject/static/css/main.f636cd05.css.map",
+    "main.b662c9bc.js.map": "/Liveproject/static/js/main.b662c9bc.js.map",
+    "787.06d42907.chunk.js.map": "/Liveproject/static/js/787.06d42907.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f636cd05.css",
+    "static/js/main.b662c9bc.js"
+  ]
+}
